@@ -22,7 +22,7 @@ Building practical software, one project at a time.
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,django,fastapi,git,github,mysql,sqlite,html,css,js,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,django,fastapi,git,github,mysql,sqlite,html,css,js,vscode,bootstrap,tailwincss)](https://skillicons.dev)
 
 ## 🚀 Current Focus
 
@@ -31,6 +31,14 @@ Building practical software, one project at a time.
 - REST APIs
 - Database Design
 - cybersecurity Fundamentals
+
+## Data Structures & Algorithms
+
+🔍 Problem Solving: Arrays, Strings, Linked Lists, Stacks, Queues
+🌳 Tree Structures: Binary Trees, BST, Heaps, Tries
+📊 Graph Algorithms: BFS, DFS, Shortest Path, MST
+⚡ Advanced: Dynamic Programming, Greedy Algorithms, Backtracking
+🎯 Complexity Analysis: Time & Space Optimization
 
 ## 📂 Featured Projects
 
@@ -46,8 +54,6 @@ Building practical software, one project at a time.
 ## 🌱 Currently Learning
 
 ✔ Python Advanced
-
-✔ Object-Oriented Programming
 
 ✔ Data Structures & Algorithms
 

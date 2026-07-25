@@ -5,14 +5,21 @@
 <h3 align="center">
 BCA Student • Python Developer • Backend Enthusiast
 </h3>
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-GitHub:
-https://github.com/chandr7ka
-LinkedIn:
-www.linkedin.com/in/chandrikapandeyoffical
-Email:
-dollypandey2305@gmail.com
+<p align="left">
+  <a href="https://github.com/chandr7ka" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/chandrikapandeyoffical" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:dollypandey2305@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
+  </a>
+</p>
 
 
 ## 👩‍💻 About Me

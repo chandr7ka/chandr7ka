@@ -16,41 +16,10 @@ Building practical software, one project at a time.
 - 💡 Interested in cybersecurity and Problem Solving
 - 📚 Currently learning Data Structures & Algorithms
 - 🚀 Working on real-world projects to improve my development skills
-- 🎯 Goal: Become a Software Engineer
+- 🎯 Goal: Become a Software Engineer/cybersecurity
 
-## 🛠 Tech Stack
 
-### Languages
 
-- Python
-- SQL
-- JavaScript
-- HTML5
-- CSS3
-
-### Backend
-
-- Flask
-- Django
-- FastAPI
-
-### Databases
-
-- MySQL
-- SQLite
-
-### Libraries
-
-- NumPy
-- Pandas
-- OpenCV
-- Scikit-learn
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
 ## 💻 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,django,fastapi,git,github,mysql,sqlite,html,css,js,vscode)](https://skillicons.dev)

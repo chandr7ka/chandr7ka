@@ -7,7 +7,7 @@ BCA Student • Python Developer • Backend Enthusiast
 <p align="center">
 Building practical software, one project at a time.
 </p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Chandrika!;Python+Developer;Backend+Enthusiast;Learning+DSA+Every+Day)](https://git.io/typing-svg)
 
 ## 👩‍💻 About Me
 
@@ -77,10 +77,15 @@ dollypandey2305@gmail.com
 
 Portfolio:
 Coming Soon 🚀
-![GitHub Streak](https://streak-stats.demolab.com?user=chandr7ka&theme=tokyonight)
+
 ## 💭 Favorite Quote
 
 > "Consistency beats intensity."
+
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=chandr7ka&theme=tokyonight)
+
 
 ⭐ Thank you for visiting my profile!<!--
 

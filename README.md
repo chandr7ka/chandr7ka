@@ -30,9 +30,13 @@ BCA Student • Python Developer • Backend Enthusiast
 ## Data Structures & Algorithms
 
 🔍 Problem Solving: Arrays, Strings, Linked Lists, Stacks, Queues
+
 🌳 Tree Structures: Binary Trees, BST, Heaps, Tries
+
 📊 Graph Algorithms: BFS, DFS, Shortest Path, MST
+
 ⚡ Advanced: Dynamic Programming, Greedy Algorithms, Backtracking
+
 🎯 Complexity Analysis: Time & Space Optimization
 
 ## 📂 Featured Projects

@@ -5,7 +5,17 @@
 <h3 align="center">
 BCA Student • Python Developer • Backend Enthusiast
 </h3>
-## 🌐 Connect With Me
+
+## 👩‍💻 About Me
+
+- 🎓 BCA Student
+- 🐍 Passionate about Python and Backend Development
+- 💡 Interested in cybersecurity and Problem Solving
+- 📚 Currently learning Data Structures & Algorithms
+- 🚀 Working on real-world projects to improve my development skills
+- 🎯 Goal: Become a Software Engineer
+
+  ##🌐 Connect With Me
 
 <p align="left">
   <a href="https://github.com/chandr7ka" target="_blank">
@@ -20,16 +30,6 @@ BCA Student • Python Developer • Backend Enthusiast
     <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
   </a>
 </p>
-
-
-## 👩‍💻 About Me
-
-- 🎓 BCA Student
-- 🐍 Passionate about Python and Backend Development
-- 💡 Interested in cybersecurity and Problem Solving
-- 📚 Currently learning Data Structures & Algorithms
-- 🚀 Working on real-world projects to improve my development skills
-- 🎯 Goal: Become a Software Engineer
 
 ## 💻 Tech Stack
 

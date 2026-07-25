@@ -13,7 +13,7 @@ Building practical software, one project at a time.
 
 - 🎓 BCA Student
 - 🐍 Passionate about Python and Backend Development
-- 💡 Interested in AI/ML and Problem Solving
+- 💡 Interested in cybersecurity and Problem Solving
 - 📚 Currently learning Data Structures & Algorithms
 - 🚀 Working on real-world projects to improve my development skills
 - 🎯 Goal: Become a Software Engineer

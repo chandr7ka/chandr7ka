@@ -15,14 +15,14 @@ BCA Student • Python Developer • Backend Enthusiast
 - 🚀 Working on real-world projects to improve my development skills
 - 🎯 Goal: Become a Software Engineer
 
-  ## 🌐 Connect With Me
+ ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/chandr7ka" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
-  </a>
+  <p align="left">
+     <a href="https://github.com/chandr7ka" target="_blank">
+         <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+      </a>
   
-  <a href="https://www.linkedin.com/in/chandrikapandeyoffical" target="_blank">
+   <a href="https://www.linkedin.com/in/chandrikapandeyoffical" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
 

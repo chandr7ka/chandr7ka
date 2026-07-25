@@ -13,7 +13,7 @@ BCA Student • Python Developer • Backend Enthusiast
 - 💡 Interested in cybersecurity and Problem Solving
 - 📚 Currently learning Data Structures & Algorithms
 - 🚀 Working on real-world projects to improve my development skills
-- 🎯 Goal: Become a Software Engineer/cybersecurity
+- 🎯 Goal: Become a Software Engineer
 
 ## 💻 Tech Stack
 

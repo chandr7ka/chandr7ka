@@ -5,6 +5,15 @@
 <h3 align="center">
 BCA Student • Python Developer • Backend Enthusiast
 </h3>
+## 📫 Connect With Me
+
+GitHub:
+https://github.com/chandr7ka
+LinkedIn:
+www.linkedin.com/in/chandrikapandeyoffical
+Email:
+dollypandey2305@gmail.com
+
 
 ## 👩‍💻 About Me
 
@@ -63,18 +72,6 @@ BCA Student • Python Developer • Backend Enthusiast
 ✔ FastAPI
 
 ✔ cybersecurity
-
-
-## 📫 Connect With Me
-
-GitHub:
-https://github.com/chandr7ka
-
-LinkedIn:
-www.linkedin.com/in/chandrikapandeyoffical
-
-Email:
-dollypandey2305@gmail.com
 
 Portfolio:
 Coming Soon 🚀

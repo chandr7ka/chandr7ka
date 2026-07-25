@@ -18,11 +18,17 @@ Building practical software, one project at a time.
 - 🚀 Working on real-world projects to improve my development skills
 - 🎯 Goal: Become a Software Engineer/cybersecurity
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,django,fastapi,git,github,mysql,sqlite,html,css,js,vscode,bootstrap,tailwincss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,django,fastapi,git,github,mysql,sqlite,html,css,js,vscode,bootstrap,tailwindcss)](https://skillicons.dev)
 
 ## 🚀 Current Focus
 

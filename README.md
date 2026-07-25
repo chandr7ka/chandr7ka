@@ -26,9 +26,13 @@ BCA Student • Python Developer • Backend Enthusiast
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
 
-  <a href="mailto:dollypandey2305@gmail.com">
+  <a href="mailto:dollypandey2305@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
   </a>
+  <a href="https://www.instagram.com/chandr7kapandeyy">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram"/>
+  </a>
+
 </p>
 
 ## 💻 Tech Stack

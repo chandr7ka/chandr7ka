@@ -51,7 +51,9 @@ Building practical software, one project at a time.
 - Git
 - GitHub
 - VS Code
+## 💻 Tech Stack
 
+[![My Skills](https://skillicons.dev/icons?i=python,flask,django,fastapi,git,github,mysql,sqlite,html,css,js,vscode)](https://skillicons.dev)
 
 ## 🚀 Current Focus
 
@@ -59,7 +61,7 @@ Building practical software, one project at a time.
 - Backend Development
 - REST APIs
 - Database Design
-- Machine Learning Fundamentals
+- cybersecurity Fundamentals
 
 ## 📂 Featured Projects
 

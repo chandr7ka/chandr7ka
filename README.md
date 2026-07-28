@@ -93,7 +93,6 @@ Coming Soon 🚀
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=chandr7ka&theme=tokyonight)
 
 
 ⭐ Thank you for visiting my profile!<!--
